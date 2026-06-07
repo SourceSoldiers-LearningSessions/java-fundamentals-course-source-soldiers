@@ -21,7 +21,7 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
 ## 📚 Secuencia de Lecciones
 ### 🎬 Lección 1: ¿Qué es Java y la Programación? (5 min)
 *   **Descripción**: Descubre qué es la programación y por qué Java es un excelente lenguaje multiplataforma para empezar a dar tus primeros pasos en el mundo tecnológico.
-*   **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=example-link1)
+*   **Enlace**: [Ver la lección](https://youtu.be/ZEr2JpoH6dQ)
 *   **Consejos clave**: Java se usa para aplicaciones y juegos masivos; los programas son una serie de instrucciones lógicas para las computadoras.
 *   **Práctica**: [Clic para programar](https://www.onlinegdb.com/online_java_compiler)
 
