@@ -27,7 +27,7 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
 
 ### 🧱 Lección 2: Variables y tipos de datos (8 min)
 *   **Descripción**: En esta lección, descubriremos cómo la computadora almacena información temporalmente en la memoria usando variables, y conoceremos los tipos de datos principales.
-*   **Enlace**: [Ver la lección](https://youtu.be/Fbs1SZhgPtc)
+*   **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=example-link2)
 *   **Consejos clave**: Usa `int` para números enteros y `String` para texto. Recuerda declarar siempre su tipo, como `int age = 15;`.
 *   **Práctica**: [Clic para programar](https://www.onlinegdb.com/online_java_compiler)
 
@@ -39,13 +39,13 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
 
 ### 🎨 Lección 4: Métodos, Entrada/Salida e Introducción a la POO (12 min)
 *   **Descripción**: Aprende a empaquetar código reutilizable mediante funciones llamadas métodos, recibe información del usuario en vivo y crea tus primeras nociones de objetos.
-*   **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=example-link4)
+*   **Enlace**: [Ver la lección](https://youtu.be/Fbs1SZhgPtc)
 *   **Consejos clave**: Definición base: `public static void greet()`. Captura flujos mediante `Scanner` y empieza a usar plantillas mediante `class Pet { String name; }`.
 *   **Práctica**: [Clic para programar](https://www.onlinegdb.com/online_java_compiler)
 
 ### 📐 Lección 5: Fundamentos de POO y programas sencillos (15 min)
 *   **Descripción**: Combinaremos todo lo aprendido para construir clases robustas con atributos y comportamientos, aplicando el principio fundamental de encapsulación.
-*   **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=example-link5)
+*   **Enlace**: [Ver la lección](https://youtu.be/Dca8XPL1IvY)
 *   **Consejos clave**: Aplica la encapsulación de variables de manera correcta utilizando métodos de acceso estructurados (getters y setters).
 *   **Proyecto Final**: [Clic para programar](https://www.onlinegdb.com/online_java_compiler)
 
