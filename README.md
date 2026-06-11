@@ -27,7 +27,7 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
 
 ### 🧱 Lección 2: Variables y tipos de datos (8 min)
 *   **Descripción**: En esta lección, descubriremos cómo la computadora almacena información temporalmente en la memoria usando variables, y conoceremos los tipos de datos principales.
-*   **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=example-link2)
+*   **Enlace**: [Ver la lección](https://youtu.be/lkab_jvr9oU)
 *   **Consejos clave**: Usa `int` para números enteros y `String` para texto. Recuerda declarar siempre su tipo, como `int age = 15;`.
 *   **Práctica**: [Clic para programar](https://www.onlinegdb.com/online_java_compiler)
 
