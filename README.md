@@ -33,7 +33,7 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
 
 ### 🖼️ Lección 3: Estructuras de control: Decisiones y bucles (10 min)
 *   **Descripción**: Dale superpoderes lógicos a tus programas para tomar decisiones inteligentes usando la estructura `if-else` y repetir tareas de forma automática con bucles.
-*   **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=example-link3)
+*   **Enlace**: [Ver la lección](https://youtu.be/SRzGiGkkd7Y)
 *   **Consejos clave**: Estructura de decisión básica: `if (age >= 12) {}`. Para repeticiones usamos estructuras como `for (int i=0; i<5; i++) {}`.
 *   **Práctica**: [Clic para programar](https://www.onlinegdb.com/online_java_compiler)
 
@@ -51,7 +51,7 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
 
 ### 🛠️ Lección 6: Consejos prácticos y próximos pasos (10 min)
 *   **Descripción**: En esta lección final nos centraremos en corregir errores comunes de sintaxis para principiantes, entender la depuración y cómo continuar tu camino de aprendizaje.
-*   **Enlace**: [Ver Lección](https://www.youtube.com/watch?v=example-link6)
+*   **Enlace**: [Ver Lección](https://youtu.be/ea83-nyxH9Y)
 *   **Consejos Clave**: Aprende a leer los mensajes de error de la consola de depuración y acostúmbrate a explorar la documentación técnica oficial de Oracle Java.
 *   **Práctica**: [Clic para programar](https://www.onlinegdb.com/online_java_compiler)
 ### 🚀 Lección 7: Creación final de un código de Java (15 min)
