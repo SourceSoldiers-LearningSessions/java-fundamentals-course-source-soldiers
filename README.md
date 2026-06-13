@@ -54,8 +54,11 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
 *   **Enlace**: [Ver Lección](https://youtu.be/ea83-nyxH9Y)
 *   **Consejos Clave**: Aprende a leer los mensajes de error de la consola de depuración y acostúmbrate a explorar la documentación técnica oficial de Oracle Java.
 *   **Práctica**: [Clic para programar](https://www.onlinegdb.com/online_java_compiler)
-### 🚀 Lección 7: Creación final de un código de Java (15 min)
-*   ¡Es tu hora de brillar!
+### 🚀 Lección 7: Demostrando lo aprendido. (15 min)
+*   **Descripción**: ¡Es hora de demostrar lo aprendido! Crearemos un programa para registrar un producto y que sus datos se muestren en la consola.
+*   **Enlace**: [Ver Lección](https://youtu.be/ly7LxP4KDhk)
+*   **Consejos Clave**: Repasa las lecciones anteriores si necesitas comprender mejor el código.
+*   **Práctica**: [Clic para programar](https://www.onlinegdb.com/online_java_compiler)
 
 ---
 
