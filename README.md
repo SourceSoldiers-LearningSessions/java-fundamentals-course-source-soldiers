@@ -26,9 +26,9 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
 *   **Práctica**: [Clic para programar](https://www.onlinegdb.com/online_java_compiler)
 
 ### 🧱 Lección 2: Variables y tipos de datos (8 min)
-*   **Descripción**: En esta lección, descubriremos cómo la computadora almacena información temporalmente en la memoria usando variables, y conoceremos los tipos de datos principales.
+*   **Descripción**: En esta lección, aprenderemos qué son las variables y cómo Java almacena información utilizando distintos tipos de datos como números, texto y valores lógicos.
 *   **Enlace**: [Ver la lección](https://youtu.be/lkab_jvr9oU)
-*   **Consejos clave**: Usa `int` para números enteros y `String` para texto. Recuerda declarar siempre su tipo, como `int age = 15;`.
+*   **Consejos clave**: Una variable almacena información en memoria y debe tener un tipo de dato definido. Java ofrece distintos tipos de datos, como int, double, char, boolean y String, para representar diferentes clases de información.
 *   **Práctica**: [Clic para programar](https://www.onlinegdb.com/online_java_compiler)
 
 ### 🖼️ Lección 3: Estructuras de control: Decisiones y bucles (10 min)
