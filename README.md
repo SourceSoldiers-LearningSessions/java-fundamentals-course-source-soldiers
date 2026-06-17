@@ -38,7 +38,7 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
 *   **Práctica**: [Clic para programar](https://www.onlinegdb.com/online_java_compiler)
 
 ### 🎨 Lección 4: Métodos, Entrada/Salida e Introducción a la POO (12 min)
-*   **Descripción**: Aprende a empaquetar código reutilizable mediante funciones llamadas métodos, recibe información del usuario en vivo y crea tus primeras nociones de objetos.
+*   **Descripción**: En esta lección aprenderemos a empaquetar código reutilizable mediante funciones llamadas métodos, recibe información del usuario en vivo y crea tus primeras nociones de objetos.
 *   **Enlace**: [Ver la lección](https://youtu.be/Fbs1SZhgPtc)
 *   **Consejos clave**: Definición base: `public static void greet()`. Captura flujos mediante `Scanner` y empieza a usar plantillas mediante `class Pet { String name; }`.
 *   **Práctica**: [Clic para programar](https://www.onlinegdb.com/online_java_compiler)
