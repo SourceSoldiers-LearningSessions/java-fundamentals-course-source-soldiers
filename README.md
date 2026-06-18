@@ -14,7 +14,7 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
 *   **👥 Público objetivo**: Estudiantes de 12 a 17 años sin experiencia en programación.
 *   **🎯 Prerrequisitos**: Ninguno
 *   **💻 Herramientas necesarias**: ¡Solo tu navegador web! (Chrome, Firefox, Safari, Edge)
-*   **📂 Repositorio de código fuente**: [https://shorturl.at/5Fh5d](https://shorturl.at/5Fh5d)
+*   **📂 Repositorio de código fuente**: [https://shorturl.at/oTFJS](https://shorturl.at/oTFJS)
 
 ---
 
