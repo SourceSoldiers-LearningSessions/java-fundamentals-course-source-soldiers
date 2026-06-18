@@ -1,7 +1,7 @@
 # ☕ Fundamentos de Java para Principiantes
 
 ¡Bienvenido al repositorio oficial del curso **Fundamentos de Java para Principiantes**!
-
+En este curso se enseñarán los conceptos básicos del lenguaje Java, así como Programación Orientada a Objetos (POO) para estudiantes sin experiencia en programación y culminará con la creación de un programa que encapsula todo lo aprendido. Disfruten del curso!
 ---
 
 ## 💡 Resumen del Curso
@@ -14,7 +14,7 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
 *   **👥 Público objetivo**: Estudiantes de 12 a 17 años sin experiencia en programación.
 *   **🎯 Prerrequisitos**: Ninguno
 *   **💻 Herramientas necesarias**: ¡Solo tu navegador web! (Chrome, Firefox, Safari, Edge)
-*   **📂 Repositorio de código fuente**: [GitHub - SourceSoldiers](https://github.com/SourceSoldiers/java-fundamentals-course-sourcesoldiers)
+*   **📂 Repositorio de código fuente**: [https://shorturl.at/5Fh5d](https://shorturl.at/5Fh5d)
 
 ---
 
@@ -23,42 +23,42 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
 *   **Descripción**: En esta lección, aprenderemos sobre el concepto de programación, haremos una introducción corta a Java, y exploraremos la interfaz del editor de código en línea que vamos a utilizar.
 *   **Enlace**: [Ver la lección](https://youtu.be/ZEr2JpoH6dQ)
 *   **Consejos clave**: Programar en Java te permite conocer mejor cómo se construyen distintos tipos de software. 
-*   **Práctica**: [Clic para programar](https://www.onlinegdb.com/online_java_compiler)
+*   **Práctica**: [Abrir OnlineGDB](https://www.onlinegdb.com/online_java_compiler)
 
 ### 🧱 Lección 2: Variables y tipos de datos (8 min)
 *   **Descripción**: En esta lección, descubriremos cómo la computadora almacena información temporalmente en la memoria usando variables, y conoceremos los tipos de datos principales.
 *   **Enlace**: [Ver la lección](https://youtu.be/lkab_jvr9oU)
 *   **Consejos clave**: Usa `int` para números enteros y `String` para texto. Recuerda declarar siempre su tipo, como `int age = 15;`.
-*   **Práctica**: [Clic para programar](https://www.onlinegdb.com/online_java_compiler)
+*   **Práctica**: [Abrir OnlineGDB](https://www.onlinegdb.com/online_java_compiler)
 
 ### 🖼️ Lección 3: Estructuras de control: Decisiones y bucles (10 min)
 *   **Descripción**: Dale superpoderes lógicos a tus programas para tomar decisiones inteligentes usando la estructura `if-else` y repetir tareas de forma automática con bucles.
 *   **Enlace**: [Ver la lección](https://youtu.be/SRzGiGkkd7Y)
 *   **Consejos clave**: Estructura de decisión básica: `if (age >= 12) {}`. Para repeticiones usamos estructuras como `for (int i=0; i<5; i++) {}`.
-*   **Práctica**: [Clic para programar](https://www.onlinegdb.com/online_java_compiler)
+*   **Práctica**: [Abrir OnlineGDB](https://www.onlinegdb.com/online_java_compiler)
 
 ### 🎨 Lección 4: Métodos, Entrada/Salida e Introducción a la POO (12 min)
 *   **Descripción**: En esta lección aprenderemos a empaquetar código reutilizable mediante funciones llamadas métodos, recibe información del usuario en vivo y crea tus primeras nociones de objetos.
 *   **Enlace**: [Ver la lección](https://youtu.be/Fbs1SZhgPtc)
 *   **Consejos clave**: Definición base: `public static void greet()`. Captura flujos mediante `Scanner` y empieza a usar plantillas mediante `class Pet { String name; }`.
-*   **Práctica**: [Clic para programar](https://www.onlinegdb.com/online_java_compiler)
+*   **Práctica**: [Abrir OnlineGDB](https://www.onlinegdb.com/online_java_compiler)
 
 ### 📐 Lección 5: Fundamentos de POO y programas sencillos (15 min)
 *   **Descripción**: Combinaremos todo lo aprendido para construir clases robustas con atributos y comportamientos, aplicando el principio fundamental de encapsulación.
 *   **Enlace**: [Ver la lección](https://youtu.be/Dca8XPL1IvY)
 *   **Consejos clave**: Aplica la encapsulación de variables de manera correcta utilizando métodos de acceso estructurados (getters y setters).
-*   **Proyecto Final**: [Clic para programar](https://www.onlinegdb.com/online_java_compiler)
+*   **Proyecto Final**: [Abrir OnlineGDB](https://www.onlinegdb.com/online_java_compiler)
 
-### 🛠️ Lección 6: Consejos prácticos y próximos pasos (10 min)
+### 🛠️ Lección 6: Errores comunes y buenas prácticas (10 min)
 *   **Descripción**: En esta lección final nos centraremos en corregir errores comunes de sintaxis para principiantes, entender la depuración y cómo continuar tu camino de aprendizaje.
 *   **Enlace**: [Ver Lección](https://youtu.be/ea83-nyxH9Y)
 *   **Consejos Clave**: Aprende a leer los mensajes de error de la consola de depuración y acostúmbrate a explorar la documentación técnica oficial de Oracle Java.
-*   **Práctica**: [Clic para programar](https://www.onlinegdb.com/online_java_compiler)
+*   **Práctica**: [Abrir OnlineGDB](https://www.onlinegdb.com/online_java_compiler)
 ### 🚀 Lección 7: Demostrando lo aprendido. (15 min)
 *   **Descripción**: ¡Es hora de demostrar lo aprendido! Crearemos un programa para registrar un producto y que sus datos se muestren en la consola.
 *   **Enlace**: [Ver Lección](https://youtu.be/ly7LxP4KDhk)
 *   **Consejos Clave**: Repasa las lecciones anteriores si necesitas comprender mejor el código.
-*   **Práctica**: [Clic para programar](https://www.onlinegdb.com/online_java_compiler)
+*   **Práctica**: [Abrir OnlineGDB](https://www.onlinegdb.com/online_java_compiler)
 
 ---
 
@@ -66,16 +66,15 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
 
 | Lección # | Actividad | Empezar a Programar |
 | :--- | :--- | :--- |
-| 1 | Hola mundo | [Replit](https://replit.com/@sourcesoldiers/hola-mundo) |
-| 2 | Variables y datos | [Replit](https://replit.com/@sourcesoldiers/variables) |
-| 3 | Decisiones y bucles | [JDoodle](https://jdoodle.com/execute-java-online/sourcesoldiers-3) |
-| 4 | Métodos y clases básicas | [OnlineGDB](https://onlinegdb.com/sourcesoldiers-4) |
-| 5 | Programa completo POO | [Replit](https://replit.com/@sourcesoldiers/proyecto-final) |
+| 1 | ¿Qué es Java y la programación? | [OnlineGDB](https://onlinegdb.com/0bNXqnhXE) |
+| 2 | Variables y datos | [OnlineGDB]() |
+| 3 | Estructuras de control: Decisiones y bucles | [OnlineGDB]() |
+| 4 | Métodos, Entrada/Salida e Introducción a la POO | [OnlineGDB]() |
+| 5 | Fundamentos de POO y programas sencillos | [OnlineGDB]() |
+| 6 | Errores comunes y buenas prácticas | [OnlineGDB]() |
+| 7 | Demostrando lo aprendido | [OnlineGDB](https://onlinegdb.com/02PGJktcM) |
 
 ✨ **¡Gracias por completar el curso!** ✨
-🔗 **Cuestionario**: [Pon a prueba tus conocimientos](https://forms.gle/sourcesoldiers-quiz)
-📱 **Compartir**: `#JavaBeginners`
-
 ---
 
 ## 🎓 Elaboración
