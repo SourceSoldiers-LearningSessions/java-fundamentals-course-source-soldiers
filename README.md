@@ -71,7 +71,7 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
 | 3 | Estructuras de control: Decisiones y bucles | [OnlineGDB]() |
 | 4 | Métodos, Entrada/Salida e Introducción a la POO | [OnlineGDB]() |
 | 5 | Fundamentos de POO y programas sencillos | [OnlineGDB]() |
-| 6 | Errores comunes y buenas prácticas | [OnlineGDB]() |
+| 6 | Errores comunes y buenas prácticas | [OnlineGDB](https://onlinegdb.com/2FdV8LdILB) |
 | 7 | Demostrando lo aprendido | [OnlineGDB](https://onlinegdb.com/02PGJktcM) |
 
 ✨ **¡Gracias por completar el curso!** ✨
