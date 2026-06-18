@@ -67,8 +67,8 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
 | Lección # | Actividad | Empezar a Programar |
 | :--- | :--- | :--- |
 | 1 | ¿Qué es Java y la programación? | [OnlineGDB](https://onlinegdb.com/0bNXqnhXE) |
-| 2 | Variables y datos | [OnlineGDB]() |
-| 3 | Estructuras de control: Decisiones y bucles | [OnlineGDB]() |
+| 2 | Variables y datos | [OnlineGDB](https://onlinegdb.com/4AEKHpUpY) |
+| 3 | Estructuras de control: Decisiones y bucles | [OnlineGDB](https://onlinegdb.com/yojny7-O0) |
 | 4 | Métodos, Entrada/Salida e Introducción a la POO | [OnlineGDB]() |
 | 5 | Fundamentos de POO y programas sencillos | [OnlineGDB]() |
 | 6 | Errores comunes y buenas prácticas | [OnlineGDB](https://onlinegdb.com/2FdV8LdILB) |
