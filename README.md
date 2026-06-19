@@ -43,14 +43,14 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
 *   **Consejos clave**: Definición base: `public static void greet()`. Captura flujos mediante `Scanner` y empieza a usar plantillas mediante `class Pet { String name; }`.
 *   **Práctica**: [Abrir OnlineGDB](https://www.onlinegdb.com/online_java_compiler)
 
-### 📐 Lección 5: Fundamentos de POO y programas sencillos (15 min)
+### 📐 Lección 5: Encapsulamiento de métodos (14 min)
 *   **Descripción**: Combinaremos todo lo aprendido para construir clases robustas con atributos y comportamientos, aplicando el principio fundamental de encapsulación.
 *   **Enlace**: [Ver la lección](https://youtu.be/Dca8XPL1IvY)
 *   **Consejos clave**: Aplica la encapsulación de variables de manera correcta utilizando métodos de acceso estructurados (getters y setters).
 *   **Proyecto Final**: [Abrir OnlineGDB](https://www.onlinegdb.com/online_java_compiler)
 
 ### 🛠️ Lección 6: Errores comunes y buenas prácticas (10 min)
-*   **Descripción**: En esta lección final nos centraremos en corregir errores comunes de sintaxis para principiantes, entender la depuración y cómo continuar tu camino de aprendizaje.
+*   **Descripción**: En esta lección nos centraremos en corregir errores comunes de sintaxis para principiantes, entender la depuración y cómo continuar tu camino de aprendizaje.
 *   **Enlace**: [Ver Lección](https://youtu.be/zmgTYBbe8MI)
 *   **Consejos Clave**: Aprende a leer los mensajes de error de la consola de depuración y acostúmbrate a explorar la documentación técnica oficial de Oracle Java.
 *   **Práctica**: [Abrir OnlineGDB](https://www.onlinegdb.com/online_java_compiler)
@@ -70,7 +70,7 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
 | 2 | Variables y datos | [OnlineGDB](https://onlinegdb.com/4AEKHpUpY) |
 | 3 | Estructuras de control: Decisiones y bucles | [OnlineGDB](https://onlinegdb.com/yojny7-O0) |
 | 4 | Métodos, Entrada/Salida e Introducción a la POO | [OnlineGDB](https://onlinegdb.com/ovdT9_oGT) |
-| 5 | Fundamentos de POO y programas sencillos | [OnlineGDB](https://onlinegdb.com/2FltZgkxO) |
+| 5 | Encapsulamiento de métodos | [OnlineGDB](https://onlinegdb.com/2FltZgkxO) |
 | 6 | Errores comunes y buenas prácticas | [OnlineGDB](https://onlinegdb.com/2FdV8LdILB) |
 | 7 | Demostrando lo aprendido | [OnlineGDB](https://onlinegdb.com/02PGJktcM) |
 
