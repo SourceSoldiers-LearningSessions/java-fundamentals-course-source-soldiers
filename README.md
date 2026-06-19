@@ -21,7 +21,7 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
 ## 📚 Secuencia de Lecciones
 ### 🎬 Lección 1: ¿Qué es Java y la Programación? (5 min)
 *   **Descripción**: En esta lección, aprenderemos sobre el concepto de programación, haremos una introducción corta a Java, y exploraremos la interfaz del editor de código en línea que vamos a utilizar.
-*   **Enlace**: [Ver la lección](https://youtu.be/ZEr2JpoH6dQ)
+*   **Enlace**: [Ver la lección](https://youtu.be/M2opfnn1gPQ)
 *   **Consejos clave**: Programar en Java te permite conocer mejor cómo se construyen distintos tipos de software. 
 *   **Práctica**: [Abrir OnlineGDB](https://www.onlinegdb.com/online_java_compiler)
 
@@ -51,7 +51,7 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
 
 ### 🛠️ Lección 6: Errores comunes y buenas prácticas (10 min)
 *   **Descripción**: En esta lección final nos centraremos en corregir errores comunes de sintaxis para principiantes, entender la depuración y cómo continuar tu camino de aprendizaje.
-*   **Enlace**: [Ver Lección](https://youtu.be/ea83-nyxH9Y)
+*   **Enlace**: [Ver Lección](https://youtu.be/zmgTYBbe8MI)
 *   **Consejos Clave**: Aprende a leer los mensajes de error de la consola de depuración y acostúmbrate a explorar la documentación técnica oficial de Oracle Java.
 *   **Práctica**: [Abrir OnlineGDB](https://www.onlinegdb.com/online_java_compiler)
 ### 🚀 Lección 7: Demostrando lo aprendido. (15 min)
