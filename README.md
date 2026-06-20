@@ -89,6 +89,5 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
 *   **Integrantes**:
     *   Andrea Khristina Esther Correa Rodriguez
     *   Nicolas Eduardo Castro Solorza
-    *   Renzo Alejandro Bojórquez Bustinza
     *   Sebastian Josue Cochachi Chagua
     *   Sebastián Martin Pinedo Sánchez
